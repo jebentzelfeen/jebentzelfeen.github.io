@@ -3,6 +3,6 @@ var words = ["06-nummer","1 aprilgrap", "10-eurobiljet", "11 julifeest","16-mete
 ,"noodrem","zuidoostkust","fade-out","beschildering","schildwacht","fontein","stuurstoel","museumbezoek","eclecticus","boventiteling","profijtbeginsel","muurkrant","automobielsector","abcdefghijklmnopqrstuvwxyz","qwertyuiopasdfghjklzxcvbnm","bewaarloon","werkcollege","priemgetal","uitzonderingsmaatregel","baggerlaars","tuinslang","probleemstelling"
 ,"blazerssectie","springbalk","radioloog","lentefeest","roman","asfaltweg","binnenzijde","crimineel","boskabouter","bosjesman","takkenwijf","heteluchtballon","borstbeeld","marmot","raamovereenkomst","kloosterzuster","huisgod","treinconducteur","pelmolen","neurotransmitter","muziektheater","pijlstaartvlinder","PVC-buis","vaargeul","duimschroef","seincode"
 ,"priesterfeest","tournee","boonkruid","boudweg","moordwapen","justitiebegroting","hoofdinspecteur","studievereniging","hematoloog","luitenant-generaal","commandoactie","Gastendoekje","bitterbal","xylofoon","gewetenszaak","democratiseringsproces","driekoningenbrood","zonneklep","dignitaris","rugpand","scharnier","afwerkplek","slagperk","gokker","steen"
-,"wolfsangel","paperbackuitgave"]
+,"wolfsangel","paperbackuitgave","Jannes de Keijser"]
 var word = words[Math.floor(Math.random()*words.length)];
 document.getElementById("text").innerHTML = "je bent zelf een " + word
