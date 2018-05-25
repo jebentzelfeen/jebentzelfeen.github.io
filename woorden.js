@@ -6,6 +6,6 @@ var words = ["06-nummer","1 aprilgrap", "10-eurobiljet", "11 julifeest","16-mete
 ,"wolfsangel","paperbackuitgave","Jannes de Keijser","cougar","Nidollo","Marijn vie die Bie","popcornmachine","bioscoopfilm","vaatwasser","telnetcommando","blikopener","uraniumsplijtingsreactie","trojaans paard","blender","bartap","frisdrankfontein","schoolbord","lesboek","muziekinstrument","driekwartsmaat","samengestelde maatsoort","dwarsfluit","G-sleutel"
 ,"trampoline","cirkelzaag","schuurpapiersorteermachine","schooltas","e-book","ansichtkaart","lampenkap","linoleumvloer","tube tandpasta","grootmoeders' receptenboek","beeldhouwwerk","encryptiemethode","voordeursleutel","trapleuning","wereldkaart","webpagina","brandalarm","rookmelder","moestuin","voetbalplaatje","stroopwafel","trollybuschauffeur","przewalskipaard"
 ,"Deutschlehrar","wandschildering","ijzerzaag","penceel","schildersezel","paard","koe","varken","eend","kip","bij","konijn","hamster","leguaan","cobra","boa constrictor","schaap","vuilnisbak","brandslang","klapdeur","driekwart broek","Dominique Moret","bounty-chocoladereep","palmboom","chipszak","aanhalingsteken","muzieknoot","tramrail","bovenleiding"
-,"radiogolf"];
+,"radiogolf","Superromain"];
 var word = words[Math.floor(Math.random()*words.length)];
 document.getElementById("text").innerHTML = "je bent zelf een " + word;
